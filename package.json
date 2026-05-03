@@ -1,7 +1,9 @@
 {
   "scripts": {
     "dev:api": "ts-node apps/api/src/app.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "start": "cd apps/api && npm run start",
+    "build": "cd apps/api && npm run build"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1041.0",
