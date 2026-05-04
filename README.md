@@ -354,18 +354,6 @@ Every `git push origin main` automatically redeploys to Vercel.
 
 ---
 
-## 🤖 AI Tools Setup — Google Gemini
-
-The AI Summarizer uses Google Gemini (free).
-
-1. Go to [aistudio.google.com](https://aistudio.google.com)
-2. Click **Get API Key → Create API Key**
-3. Copy key → add to Python processor `.env` as `GEMINI_API_KEY`
-
-**Free limits:** 15 requests/minute, 1 million tokens/day.
-
----
-
 ## 📦 Deployment Checklist
 
 - [ ] Supabase project created and schema deployed
