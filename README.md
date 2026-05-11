@@ -3,7 +3,8 @@
 > 29 free online PDF tools. No installation. No signup required. Files deleted after 1 hour.
 
 **Live Site:** https://www.savepdf.tech
-**GitHub:** https://github.com/tanmay132007/freepdf
+**GitHub:** https://github.com/tanmay132007/save
+pdf
 
 ---
 
